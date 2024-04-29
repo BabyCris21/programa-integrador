@@ -19,7 +19,7 @@ class LoginForm extends React.Component {
           </div>
           <button type="submit">Iniciar Sesión</button>
             <p className="forgot-password">
-                <Link to="/Register">¿Olvidaste tu contraseña?</Link>
+                <Link to="/Register">Registrarse</Link>
             </p>
         </form>
       </div>
